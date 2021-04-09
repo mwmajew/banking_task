@@ -6,7 +6,7 @@
 # - allow for cash input and withdrawal
 # - allow for money transfer from client to client
 #If you can think of any other features, you can add them.
-#This code shoud be runnable with 'python kol1.py'.
+#This code shoud be runnable with 'python task.py'.
 #You don't need to use user input, just show me in the script that the structure of your code works.
 #If you have spare time you can implement: Command Line Interface, some kind of data storage, or even multiprocessing.
 #
